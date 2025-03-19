@@ -1,6 +1,5 @@
 ﻿using MeterReadingApp.Models;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Identity.Client;
 
 namespace MeterReadingApp.Repositories
 {
